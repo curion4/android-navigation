@@ -57,9 +57,9 @@ class HomeFragment : Fragment() {
             findNavController().navigate(R.id.flow_step_one_dest, null, options)
         }
 
-        view.findViewById<Button>(R.id.navigate_action_button)?.setOnClickListener {
+        view.findViewById<Button>(R.id.navigate_action_button)?.setOnClickListener (
             Navigation.createNavigateOnClickListener(R.id.next_action, null)
-        }
+        )
 
     }
 

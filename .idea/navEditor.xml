@@ -67,13 +67,13 @@
                       <LayoutPositions>
                         <option name="myPosition">
                           <Point>
-                            <option name="x" value="-210" />
-                            <option name="y" value="281" />
+                            <option name="x" value="-232" />
+                            <option name="y" value="280" />
                           </Point>
                         </option>
                         <option name="myPositions">
                           <map>
-                            <entry key="action_home_dest_to_flow_step_one_dest">
+                            <entry key="next_action">
                               <value>
                                 <LayoutPositions />
                               </value>
